@@ -1,0 +1,15 @@
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\bin\Debug\net6.0\GenericExample.exe
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\bin\Debug\net6.0\GenericExample.deps.json
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\bin\Debug\net6.0\GenericExample.runtimeconfig.json
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\bin\Debug\net6.0\GenericExample.dll
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\bin\Debug\net6.0\ref\GenericExample.dll
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\bin\Debug\net6.0\GenericExample.pdb
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\obj\Debug\net6.0\GenericExample.csproj.AssemblyReference.cache
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\obj\Debug\net6.0\GenericExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\obj\Debug\net6.0\GenericExample.AssemblyInfoInputs.cache
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\obj\Debug\net6.0\GenericExample.AssemblyInfo.cs
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\obj\Debug\net6.0\GenericExample.csproj.CoreCompileInputs.cache
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\obj\Debug\net6.0\GenericExample.dll
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\obj\Debug\net6.0\ref\GenericExample.dll
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\obj\Debug\net6.0\GenericExample.pdb
+D:\CSharpLearning\GitCode\CSharpLearning\GenericExample\GenericExample\obj\Debug\net6.0\GenericExample.genruntimeconfig.cache

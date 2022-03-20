@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace GenericExample
 {
-    public class StringStack
+    public class StringStack2
     {
-        private int[] stack;
+        public StringStack2()
+        {
+            this.Position = 0;  
+        }
+        private string[] stack = new string[100];
+
         public int Position { get; private set; }
-        public void Push(string value) { throw new NotImplementedException(); }
-        public string Pop() { throw new NotImplementedException(); }
+        public void Push(string value) {  stack[Position++] = value; }
+        public string Pop() { return stack[--Position];  }
     }
 }
